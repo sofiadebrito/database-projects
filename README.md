@@ -1,18 +1,26 @@
-/Database Projects
+#Database Projects
 
 This repository contains database modeling projects and exercises developed during my Software Development training.
 
-/Contents
+##Contents
 - Entity-Relationship (ER) diagrams
 - Relational data models
 - SQL exercises and queries in MySQL
 
-/Objective
+##Objective
 Apply database modeling and structuring concepts, including entity analysis, relationships, and transformation into relational models.
 
-/Skills Developed
+##Skills Developed
 - Conceptual data modeling
 - Relational database structuring
 - SQL query writing
 - Logical data organization
 - MySQL
+
+## Team Project
+The **ER diagrams** and **Relational data models** were developed in collaboration with:
+- Rita Silva
+- Nuno Ferreira
+
+*Note: SQL exercises and queries were developed individually by me.*
+  
